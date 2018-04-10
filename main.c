@@ -18,6 +18,7 @@ void timecmp(void);
 
 int main(void)
 {
+	int asdf;
 	int i;
 	int j;
 	filestat1();
